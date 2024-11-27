@@ -4,6 +4,7 @@ public class FirstPersonMovement : MonoBehaviour
 {
     public float speed = 5;
     Vector2 velocity;
+    private Animator animator;
 
 
     void Update()
@@ -12,3 +13,4 @@ public class FirstPersonMovement : MonoBehaviour
         transform.Translate(velocity.x, 0, velocity.y);
     }
 }
+
