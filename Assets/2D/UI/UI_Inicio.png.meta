@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -54,7 +54,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -108,18 +108,172 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: jugar_off
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 901
+        width: 953
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b124a5985153c344b5a1fa75e57536a
+      internalID: 1368310700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugar_on
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 873
+        width: 953
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edabd1f5bc7c21d4c937b11b9f2329d5
+      internalID: 2119053512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opciones_off
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 483
+        width: 1147
+        height: 373
+      alignment: 9
+      pivot: {x: 0.46383142, y: 0.66683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd24e9f98462564a8bab7152d75accd
+      internalID: 175719593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opciones_on
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 450
+        width: 1147
+        height: 373
+      alignment: 9
+      pivot: {x: 0.46383142, y: 0.66683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd88a1f2779538942940412e8e6992ae
+      internalID: 1478146682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos_off
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 62
+        width: 1099
+        height: 332
+      alignment: 9
+      pivot: {x: 0.5674073, y: 0.70528257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7587c047edee7dc4fbabf15ad2e11965
+      internalID: -1344067045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos_on
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 29
+        width: 1099
+        height: 332
+      alignment: 9
+      pivot: {x: 0.5674073, y: 0.70528257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd57f76e4284d91459f6fac8dc13a5f0
+      internalID: 997220500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titulo
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1662
+        width: 3982
+        height: 2181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7f094ae3a363044a44355d34d854b3
+      internalID: -683584029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6dcdd52e0f7d3884bb1669f9c9333a4c
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      creditos_off: -1344067045
+      creditos_on: 997220500
+      jugar_off: 1368310700
+      jugar_on: 2119053512
+      opciones_off: 175719593
+      opciones_on: 1478146682
+      titulo: -683584029
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
