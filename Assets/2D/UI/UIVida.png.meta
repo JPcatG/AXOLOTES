@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 93aca90d01b93bf4caed6905774b5d39
+guid: 3f8f0953b13eb794c9775ba864b35323
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,106 +110,106 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UIStamina_01
+      name: UIVida_01
       rect:
         serializedVersion: 2
-        x: 51
-        y: 773
-        width: 900
-        height: 232
+        x: 73
+        y: 561
+        width: 423
+        height: 485
       alignment: 9
-      pivot: {x: 0.041979607, y: 0.17029098}
+      pivot: {x: 0.74858767, y: 0.84821665}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18d6052b80fc5a94d8249da4c71bb824
-      internalID: 1067698592
+      spriteID: bf6627a88b05cb8448ab1a56839955fe
+      internalID: 1396493035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UIStamina_02
+      name: UIVida_02
       rect:
         serializedVersion: 2
-        x: 50
-        y: 473
-        width: 900
-        height: 232
+        x: 729
+        y: 586
+        width: 423
+        height: 485
       alignment: 9
-      pivot: {x: 0.041979607, y: 0.17029098}
+      pivot: {x: 0.74858767, y: 0.84821665}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce17d84a4600bbb4dadc760a22d62710
-      internalID: -1678373453
+      spriteID: 86647b73454781c448c3fac262c4a181
+      internalID: -1421334034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UIStamina_05
+      name: UIVida_03
       rect:
         serializedVersion: 2
-        x: 1009
-        y: 475
-        width: 900
-        height: 232
+        x: 1327
+        y: 572
+        width: 423
+        height: 485
       alignment: 9
-      pivot: {x: 0.041979607, y: 0.17029098}
+      pivot: {x: 0.74858767, y: 0.84821665}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d14df4375921cc24289dbb250712b5ab
-      internalID: -975961962
+      spriteID: 9f0ef37df3543f345b99f1fb1c0a4938
+      internalID: -2061141766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UIStamina_04
+      name: UIVida_04
       rect:
         serializedVersion: 2
-        x: 1010
-        y: 772
-        width: 900
-        height: 232
+        x: 421
+        y: 55
+        width: 423
+        height: 485
       alignment: 9
-      pivot: {x: 0.041979607, y: 0.17029098}
+      pivot: {x: 0.74858767, y: 0.84821665}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0be915bb9d693fb4db5f8d19baea7933
-      internalID: -1370575197
+      spriteID: 74cd4b8fe811dd740a7158e9b1f2f045
+      internalID: -559722394
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UIStamina_03
+      name: UIVida_05
       rect:
         serializedVersion: 2
-        x: 50
-        y: 146
-        width: 900
-        height: 232
+        x: 1067
+        y: 33
+        width: 423
+        height: 485
       alignment: 9
-      pivot: {x: 0.041979607, y: 0.17029098}
+      pivot: {x: 0.74858767, y: 0.84821665}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d6d79cb91c7c944cbc7ab3dac2250c8
-      internalID: 659386199
+      spriteID: 41b2885d0a3ed844da08e69495ed8e19
+      internalID: 2059027324
       vertices: []
       indices: 
       edges: []
@@ -217,7 +217,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 82850fc9be3384646bfeb0450840413b
+    spriteID: 9fe2aea622480b14d88a77eeb2909401
     internalID: 0
     vertices: []
     indices: 
@@ -225,11 +225,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      UIStamina_01: 1067698592
-      UIStamina_02: -1678373453
-      UIStamina_03: 659386199
-      UIStamina_04: -1370575197
-      UIStamina_05: -975961962
+      UIVida_01: 1396493035
+      UIVida_02: -1421334034
+      UIVida_03: -2061141766
+      UIVida_04: -559722394
+      UIVida_05: 2059027324
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
